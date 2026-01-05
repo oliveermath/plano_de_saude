@@ -5,8 +5,8 @@ print(35 * '-')
 print('------- Somos a UnitSaude -------')
 print(35 * '~')
 
+# Entrada do usuário do nome, valor base e idade
 nome = input('Por favor, nos informe seu nome: ')
-# Entrada do usuário do valor base e idade
 valorbase = float(input('Informe o valor base: ')) 
 idade = int(input('Digite a sua idade: '))
 
